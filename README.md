@@ -72,7 +72,7 @@ Create different **Schemes** in Xcode:
 4. Associate them with the corresponding **.xcconfig** files.
 
 ## 🛠️ Resources
-- [Official Flutter Docs](https://docs.flutter.dev/)
+- [Official Flutter Docs](https://docs.flutter.dev/deployment/flavors/)
 - [flutter_flavorizr GitHub](https://github.com/AngeloAvv/flutter_flavorizr)
 
 ## 📜 License
