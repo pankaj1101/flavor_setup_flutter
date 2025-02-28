@@ -23,7 +23,7 @@ A Flutter project demonstrating how to set up multiple flavors (environments) fo
 │   ├── Runner.xcworkspace  (Manage schemes)
 ```
 
-### 2️⃣ Running Flavors
+### Running Flavors
 #### 🟢 Development
 ```sh
 flutter run --flavor dev -t lib/main_dev.dart
