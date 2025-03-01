@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:setup_flavor/config/app_environment.dart';
+import 'package:setup_flavor/config/flavor_config.dart';
 
 class HomePages extends StatelessWidget {
   const HomePages({super.key});
@@ -12,7 +12,7 @@ class HomePages extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text('App Environment: ${AppEnvironment.apiBaseUrl}'),
+            Text('App Environment: ${FlavorConfig.apiBaseUrl}'),
           ],
         ),
       ),

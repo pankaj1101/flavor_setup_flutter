@@ -1,7 +1,7 @@
 // ignore: constant_identifier_names
 enum Flavor { DEV, UAT, PROD }
 
-class AppEnvironment {
+class FlavorConfig {
   static late String appName;
   static late String apiBaseUrl;
 
