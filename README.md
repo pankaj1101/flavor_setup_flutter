@@ -75,6 +75,9 @@ Create different **Schemes** in Xcode:
 - [Official Flutter Docs](https://docs.flutter.dev/deployment/flavors/)
 - [flutter_flavorizr GitHub](https://github.com/AngeloAvv/flutter_flavorizr)
 
+## 🚀 Connect with Me  
+- 💼 **LinkedIn Profile:** [Your Name](https://www.linkedin.com/in/pankaj-ram-ab85ba271/)  
+
 ## 📜 License
 This project is licensed under the MIT License.
 
